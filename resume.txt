@@ -8,7 +8,7 @@ Tampa, FL . (407) 802-6655 . pineapplegiant.com . guillermor@mail.usf.edu . link
 
 EDUCATION
 
-GPA: 3.00
+| GPA: 3.00
 
 GRADUATED: July 2018
 
@@ -18,7 +18,9 @@ Chemical Engineering, Bachelor of Science
 
 Humanities, Bachelors of Arts
 
-EXPECTED: March 2020
+March 2020
+
+EXPECTED:
 
 OREGON STATE UNIVERSITY
 
@@ -34,6 +36,7 @@ HYDRONE-KIT Product Website (Individual Project)
 http://www.hydronekit.fun/
 
 -   Designed and implemented marketing website for Senior Design project
+    deploying static site to Github Pages
 -   HTML5, CSS3, Javascript, Bootstrap. Awarded “Best Senior Design
     Presentation” in Senior Design Projects
 
@@ -43,9 +46,10 @@ Personal Portfolio (Group Project)
 
 https://www.pineapplegiant.com/
 
--   Created personal portfolio site using vanilla HTML,CSS, and
+-   Created personal portfolio site using vanilla HTML, CSS grid, and
     Javascript
--   Migrating to Jekyll pages for static site blog generation
+-   (_In-Progress_) Migrate and contribute to open source via Ruby Gems
+    static site generator “Jekyll” for blog generation
 
 
 WORK EXPERIENCE
@@ -56,7 +60,11 @@ Research Assistant
 
 _USF IT_ | Tampa, FL
 
--   Lead Django backend development in
+-   Program Django models using Object-Oriented Python, leveraging
+    Django’s ORM in database redesign
+-   Lead project of 3 students, utilizing agile management techniques
+    using JIRA, assigning tasks, dealing with merge conflicts, and
+    pushes to GitLab
 
 SEPTEMBER 2016 - JULY 2017
 
@@ -72,6 +80,11 @@ _WestRock_ | Covington, VA
 -   Optimized environmental systems and procedure for the segregation of
     landfill waste and the handling of naturally occurring radioactive
     material
+-   Created the first lime kiln thermal picture database to analyze
+    weekly thermal distribution, potentially mitigating the formation of
+    soda rings and reducing potential downtime
+-   Led daily morning and afternoon meetings to communicate pertinent
+    information to the entire department
 
 2014 – 2016
 
@@ -88,9 +101,13 @@ _Kumon_ | Tampa, FL
 
 SKILLS
 
--   LANGUAGES – _Proficient_ - English, HTML, CSS _Intermediate_ -
-    Spanish, Javascript, Python, Java
--   LANGUAGES – _Intermediate_ - Spanish, Javascript, Python, Java
--   FRAMEWORKS - Django, Flask, Jekyll
--   EDITOR - Vim, VSCode
--   VERSION CONTROL – Git
+  --------------------------------- -------------------------------------
+  - LANGUAGES:                      - FRAMEWORKS - Django, Jekyll,
+                                    Bootstrap, CSS-Grid, Flexbox
+
+  - _Proficient_ - English, HTML,   - EDITOR - Vim, VSCode
+  CSS                               
+
+  - _Intermediate_ - Spanish,       - VERSION CONTROL – Git
+  Javascript, Python, Java          
+  --------------------------------- -------------------------------------

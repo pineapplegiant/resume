@@ -4,7 +4,7 @@ This was inspired by my deep anguish for updating my resume using Microsoft Word
 For those who've used it, I'm sure you understand the pain.
 The constant format tinkering, the laggy startup. There is no winning. Only pain and proprietary software. Oh I dream of the days where painless plain-text writing will prevail! 
 
-If you would like to emulate how my Resume is made, however, please take a look at this blog [post](http://sdsawtelle.github.io/blog/output/simple-markdown-resume-with-pandoc-and-wkhtmltopdf.html).
+If you would like to emulate how my Resume is made, however, please take a look at this blog [post](http://sdsawtelle.github.io/blog/output/simple-markdown-resume-with-pandoc-and-wkhtmltopdf.html)
 
 The process is *fairly* simple. 
 

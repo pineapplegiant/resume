@@ -108,7 +108,9 @@ h1 {
 h2 {
   font-size: 1.25em;
   border-bottom: 0.20rem solid;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
+  /* TODO: remove this later ->*/
+  margin-top: 25px;
 }
 
 h3 {
@@ -198,13 +200,22 @@ sub {
 }
 
 ul, ol {
-  margin: 0.5em 0;
+  text-align: justify;
+  margin: 0.5em 0 1.5em 0;
   padding: 0 0 0 2em;
 }
 
 #skills + ul {
+  -webkit-column-count: 2; /* Chrome, Safari, Opera */
+  -moz-column-count: 2; /* Firefox */
   column-count: 2;
   list-style-position: inside;
+  padding-left: 1em;
+}
+
+li {
+  margin-bottom: 0.1em;
+
 }
 
 li p:last-child {
@@ -257,23 +268,25 @@ figcaption {
 
 table {
   margin-bottom: 2em;
-  border-bottom: 1px solid #ddd;
-  border-right: 1px solid #ddd;
+  /*border-bottom: 1px solid #ddd;*/
+  /*border-right: 1px solid #ddd;*/
   border-spacing: 0;
   border-collapse: collapse;
+  table-layout: fixed;
+  width: 100%;
 }
 
 table th {
-  padding: .2em 1em;
+  /*padding: .2em 1em;*/
   background-color: #eee;
-  border-top: 1px solid #ddd;
-  border-left: 1px solid #ddd;
+  /*border-top: 1px solid #ddd;*/
+  /*border-left: 1px solid #ddd;*/
 }
 
 table td {
-  padding: .2em 1em;
-  border-top: 1px solid #ddd;
-  border-left: 1px solid #ddd;
+  /*padding: .2em 1em;*/
+  /*border-top: 1px solid #ddd;*/
+  /*border-left: 1px solid #ddd;*/
   vertical-align: top;
 }
 
