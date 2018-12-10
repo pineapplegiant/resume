@@ -6,59 +6,76 @@ GUILLERMO A. RODRIGUEZ
 Tampa, FL . (407) 802-6655 . pineapplegiant.com . guillermor@mail.usf.edu . linkedin/guillermor11
 
 
-SUMMARY
-
-Chemical Engineering and Humanities graduate; desires to use science and
-technology to create a positive impact on the world.
-
-
 EDUCATION
 
-UNIVERSITY OF SOUTH FLORIDA
+GPA: 3.00
 
-GRADUATED: 2018
+GRADUATED: July 2018
+
+UNIVERSITY OF SOUTH FLORIDA
 
 Chemical Engineering, Bachelor of Science
 
 Humanities, Bachelors of Arts
 
-GPA: 3.00
+EXPECTED: March 2020
+
+OREGON STATE UNIVERSITY
+
+Computer Science, Bachelor of Science
+
+
+PROJECTS
+
+APRIL 2018
+
+HYDRONE-KIT Product Website (Individual Project)
+
+http://www.hydronekit.fun/
+
+-   Designed and implemented marketing website for Senior Design project
+-   HTML5, CSS3, Javascript, Bootstrap. Awarded “Best Senior Design
+    Presentation” in Senior Design Projects
+
+DECEMBER 2017
+
+Personal Portfolio (Group Project)
+
+https://www.pineapplegiant.com/
+
+-   Created personal portfolio site using vanilla HTML,CSS, and
+    Javascript
+-   Migrating to Jekyll pages for static site blog generation
 
 
 WORK EXPERIENCE
 
-Process Engineer Co-op | _Chemical Recovery Department_
+SEPTEMBER 2018 - PRESENT
 
-JANUARY 2017 - JULY 2017
+Research Assistant
+
+_USF IT_ | Tampa, FL
+
+-   Lead Django backend development in
+
+SEPTEMBER 2016 - JULY 2017
+
+Process Engineer Co-op | _Chemical Recovery & Environmental Department_
 
 _WestRock_ | Covington, VA
 
 -   Troubleshot green liquor density systems by daily sampling of the
     recovery boiler green liquor, correlating results with equipment
     data, effectively automating control systems
--   Created the first lime kiln thermal picture database to analyze
-    weekly thermal distribution, potentially mitigating the formation of
-    soda rings and reducing potential downtime
 -   Led daily morning and afternoon meetings to communicate pertinent
     information to the entire department
-
-Process Engineer Co-op | _Environmental Department_
-
-SEPTEMBER 2016 - JANUARY 2017
-
-_WestRock_ | Covington, VA
-
 -   Optimized environmental systems and procedure for the segregation of
     landfill waste and the handling of naturally occurring radioactive
     material
--   Documented and detailed environmental air emission regarding
-    reciprocating internal combustion engines
--   Troubleshot high chemical oxygen demand values for the bleach unit
-    by taking measurements, assessing processes, and interpreting data
-
-Math Assistant
 
 2014 – 2016
+
+Math Assistant
 
 _Kumon_ | Tampa, FL
 
@@ -69,51 +86,11 @@ _Kumon_ | Tampa, FL
     experience
 
 
-LEADERSHIP EXPERIENCE
-
-Secretary
-
-2015 - 2016
-
-_USF American Institute of Chemical Engineering_ | Tampa, FL
-
--   Designed creative weekly newsletters and emails for effective
-    communication to 400 members regarding activities and events hosted
-    by the organization, resulting in the highest turn out, and AIChE’s
-    Best Student Chapter Award
-
-Expo Chair
-
-2014 – 2015
-
-_USF American Institute of Chemical Engineering_ | Tampa, FL
-
--   Directed the annual Engineering Expo Chemical Engineering exhibit,
-    resulting in the EXPO Crowd Favorite Award for the exhibit
--   Planned show content: nine unique chemical reaction stations, 70
-    volunteers, and over 500 volunteer hours
--   Created a budget to maximize $3000 funding by submitting grant
-    proposals and initiating partnerships with other student
-    organizations
--   Directed an engaging safety video to enforce personal protective
-    equipment (PPE) and cautionary safety measures
-
-
-PROJECTS
-
-ChemE Car
-
-_September 2017 – Present_
-
-_USF American Institute of Chemical Engineering_ | Tampa, FL
-
--   Research and design stopping mechanism of AIChE’s chemically powered
-    car
-
-
 SKILLS
 
--   _Web Development_ – HTML, CSS, JavaScript, Node, Flask, Django,
-    Heroku, Bash
--   _Languages_ – English, Spanish
--   _Version Control_ – Git
+-   LANGUAGES – _Proficient_ - English, HTML, CSS _Intermediate_ -
+    Spanish, Javascript, Python, Java
+-   LANGUAGES – _Intermediate_ - Spanish, Javascript, Python, Java
+-   FRAMEWORKS - Django, Flask, Jekyll
+-   EDITOR - Vim, VSCode
+-   VERSION CONTROL – Git

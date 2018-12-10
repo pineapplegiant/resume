@@ -1,6 +1,7 @@
 /*
  * I add this to html files generated with pandoc.
  */
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:300,300i,400,400i,500,500i,600,600i');
 
 html {
   font-size: 100%;
@@ -11,7 +12,8 @@ html {
 
 body {
   color: #000;
-  font-family: Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
+  font-family: 'Fira Sans', sans-serif;
+  /*font-family: Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;*/
   /* font-size: 12px; */
   line-height: 1.15;
   padding: 0.5em;
@@ -26,6 +28,10 @@ body {
 
  #right {
   float: right;
+}
+
+#bottom {
+  margin-bottom: 5px;
 }
 
 
@@ -96,6 +102,7 @@ h1 {
   font-size: 2.5em;
   text-align: center;
   margin-bottom: 0;
+  margin-top: 0.50em;
 }
 
 h2 {
