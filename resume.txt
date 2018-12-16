@@ -3,7 +3,7 @@
 GUILLERMO A. RODRIGUEZ
 
 
-Tampa, FL . (407) 802-6655 . pineapplegiant.com . guillermor@mail.usf.edu . linkedin/guillermor11
+Tampa, FL • (407) 802-6655 • pineapplegiant.com • guillermor@mail.usf.edu • linkedin/guillermor11
 
 
 EDUCATION
@@ -103,7 +103,7 @@ SKILLS
 
   --------------------------------- -------------------------------------
   - LANGUAGES:                      - FRAMEWORKS - Django, Jekyll,
-                                    Bootstrap, CSS-Grid, Flexbox
+                                    Bootstrap, SASS
 
   - _Proficient_ - English, HTML,   - EDITOR - Vim, VSCode
   CSS                               

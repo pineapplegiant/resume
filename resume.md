@@ -1,7 +1,7 @@
 Guillermo A. Rodriguez
 ========================
 
-###### Tampa, FL . (407) 802-6655 . [pineapplegiant.com](http://www.pineapplegiant.com) . [guillermor@mail.usf.edu](mailto:guillermor@mail.usf.edu?Subject=Hi, I'd like to hire you please.) . [linkedin/guillermor11](http://www.linkedin.com/in/guillermor11)
+###### Tampa, FL • (407) 802-6655 • [pineapplegiant.com](http://www.pineapplegiant.com) • [guillermor@mail.usf.edu](mailto:guillermor@mail.usf.edu?Subject=Hi, I'd like to hire you please.) • [linkedin/guillermor11](http://www.linkedin.com/in/guillermor11)
 
 EDUCATION
 ---------
@@ -70,9 +70,10 @@ SKILLS
 
 |                                                          |                                                                 |
 |----------------------------------------------------------|-----------------------------------------------------------------|
-| - **Languages:**                                         | - **Frameworks** - Django, Jekyll, Bootstrap, CSS-Grid, Flexbox |
+| - **Languages:**                                         | - **Frameworks** - Django, Jekyll, Bootstrap, SASS              |
 |     - *Proficient* - English, HTML, CSS                  | - **Editor** - Vim, VSCode                                      |
 |     - *Intermediate* - Spanish, Javascript, Python, Java | - **Version Control** – Git                                     |
+
 
 
 
