@@ -1,7 +1,7 @@
 Guillermo A. Rodriguez
 ========================
 
-###### Tampa, FL • (407) 802-6655 • [pineapplegiant.com](http://www.pineapplegiant.com) • [guillermor@mail.usf.edu](mailto:guillermor@mail.usf.edu?Subject=Hi, I'd like to hire you please.) • [linkedin/guillermor11](http://www.linkedin.com/in/guillermor11)
+###### Tampa, FL • (407) 802-6655 • [pineapplegiant.com](http://www.pineapplegiant.com) • [guillermo@pineapplegiant.com](mailto:guillermo@pineapplegiant.com?Subject=Hi, I'd like to hire you please.) • [linkedin/pineapplegiant](http://www.linkedin.com/in/pineapplegiant)
 
 EDUCATION
 ---------
@@ -30,17 +30,17 @@ PROJECTS
 ##### Personal Portfolio (Group Project)
 ####### [https://www.pineapplegiant.com/](https://www.pineapplegiant.com/)
 * Created personal portfolio site using vanilla HTML, CSS grid, and Javascript
-* (*In-Progress*) Migrate and contribute to open source via Ruby Gems static site generator "Jekyll" for blog generation
+* (*In-Progress*) Migrate and contribute to open source via Ruby Gems static site generator framework "Jekyll" for blog generation
 
 
 WORK EXPERIENCE
 ---------
 
-####### **September 2018 - Present** {#right}
+####### **August 2018 - December 2018** {#right}
 ##### Research Assistant
 *USF IT* | Tampa, FL
 
-* Program Django models using Object-Oriented Python, leveraging Django's ORM in database redesign
+* Programmed Django models using Object-Oriented Python, leveraging Django's ORM in database redesign
 * Lead project of 3 students, utilizing agile management techniques using JIRA, assigning tasks, dealing with merge conflicts, and pushes to GitLab
 
 ####### **September 2016 - July 2017** {#right}
@@ -62,11 +62,6 @@ WORK EXPERIENCE
 
 SKILLS
 ---------
-<!--TODO: Hopefully one day wkhtmltopdf will support columns-->
-<!--* **Languages:** *Proficient* - English, HTML, CSS *Intermediate* - Spanish, Javascript, Python, Java-->
-<!--* **Frameworks** - Django, Jekyll, Bootstrap, CSS-Grid, Flexbox-->
-<!--* **Editor** - Vim, VSCode-->
-<!--* **Version Control** – Git-->
 
 |                                                          |                                                                 |
 |----------------------------------------------------------|-----------------------------------------------------------------|

@@ -3,7 +3,7 @@
 GUILLERMO A. RODRIGUEZ
 
 
-Tampa, FL • (407) 802-6655 • pineapplegiant.com • guillermor@mail.usf.edu • linkedin/guillermor11
+Tampa, FL • (407) 802-6655 • pineapplegiant.com • guillermo@pineapplegiant.com • linkedin/pineapplegiant
 
 
 EDUCATION
@@ -49,18 +49,18 @@ https://www.pineapplegiant.com/
 -   Created personal portfolio site using vanilla HTML, CSS grid, and
     Javascript
 -   (_In-Progress_) Migrate and contribute to open source via Ruby Gems
-    static site generator “Jekyll” for blog generation
+    static site generator framework “Jekyll” for blog generation
 
 
 WORK EXPERIENCE
 
-SEPTEMBER 2018 - PRESENT
+AUGUST 2018 - DECEMBER 2018
 
 Research Assistant
 
 _USF IT_ | Tampa, FL
 
--   Program Django models using Object-Oriented Python, leveraging
+-   Programmed Django models using Object-Oriented Python, leveraging
     Django’s ORM in database redesign
 -   Lead project of 3 students, utilizing agile management techniques
     using JIRA, assigning tasks, dealing with merge conflicts, and
