@@ -13,7 +13,7 @@ EDUCATION
 ####### Humanities, Bachelors of Arts {#bottom}
 
 
-####### March 2020 {#right}
+####### July 2020 {#right}
 ####### **Expected:** {#right}
 ####### **Oregon State University**
 ####### Computer Science, Bachelor of Science
