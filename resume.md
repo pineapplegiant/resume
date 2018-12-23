@@ -66,8 +66,9 @@ SKILLS
 |                                                          |                                                                 |
 |----------------------------------------------------------|-----------------------------------------------------------------|
 | - **Languages:**                                         | - **Frameworks** - Django, Jekyll, Bootstrap, SASS              |
-|     - *Proficient* - English, HTML, CSS                  | - **Editor** - Vim, VSCode                                      |
-|     - *Intermediate* - Spanish, Javascript, Python, Java | - **Version Control** – Git                                     |
+|     - *Proficient* - English, HTML5, CSS3                | - **Editor** - Vim, VSCode                                      |
+|     - *Intermediate* - Spanish, Python, Java             | - **Version Control** – Git                                     |
+|     - *Novice* - Javascript                              |                                                                 |
 
 
 

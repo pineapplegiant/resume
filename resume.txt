@@ -101,13 +101,9 @@ _Kumon_ | Tampa, FL
 
 SKILLS
 
-  --------------------------------- -------------------------------------
-  - LANGUAGES:                      - FRAMEWORKS - Django, Jekyll,
-                                    Bootstrap, SASS
-
-  - _Proficient_ - English, HTML,   - EDITOR - Vim, VSCode
-  CSS                               
-
-  - _Intermediate_ - Spanish,       - VERSION CONTROL – Git
-  Javascript, Python, Java          
-  --------------------------------- -------------------------------------
+  ------------------------------------------ ------------------------------------------------
+  - LANGUAGES:                               - FRAMEWORKS - Django, Jekyll, Bootstrap, SASS
+  - _Proficient_ - English, HTML5, CSS3      - EDITOR - Vim, VSCode
+  - _Intermediate_ - Spanish, Python, Java   - VERSION CONTROL – Git
+  - _Novice_ - Javascript                    
+  ------------------------------------------ ------------------------------------------------
