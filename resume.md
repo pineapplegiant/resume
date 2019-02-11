@@ -1,7 +1,7 @@
 Guillermo A. Rodriguez
 ========================
 
-###### Tampa, FL • (407) 802-6655 • [pineapplegiant.com](http://www.pineapplegiant.com) • [guillermo@pineapplegiant.com](mailto:guillermo@pineapplegiant.com?Subject=Hi, I'd like to hire you please.) • [linkedin/pineapplegiant](http://www.linkedin.com/in/pineapplegiant)
+###### Denver, CO • (407) 802-6655 • [pineapplegiant.com](http://www.pineapplegiant.com) • [rodrguil@oregonstate.edu](mailto:rodrguil@oregonstate.edu?Subject=Hi, I'd like to hire you please.) • [linkedin/pineapplegiant](http://www.linkedin.com/in/pineapplegiant)
 
 EDUCATION
 ---------
@@ -20,9 +20,15 @@ EDUCATION
 
 PROJECTS
 ---------
+####### **January 2019** {#right}
+##### **Joe's Personal Site** Personal Portfolio (Individual Project)
+####### [https://www.joeroccio.com/](https://www.joeroccio.com/)
+* Built and deployed hugo theme using Github Pages hosting
+* Hugo, Markdown, HTML5, CSS3, Bootstrap, Git, Github
+
 ####### **April 2018** {#right}
 ##### **Hydrone-kit** Product Website (Individual Project)
-####### [http://www.hydronekit.fun/](http://www.hydronekit.fun/)
+####### [https://hydronekit.github.io/](https://hydronekit.github.io)
 * Designed and implemented marketing website for Senior Design project deploying static site to Github Pages
 * HTML5, CSS3, Javascript, Bootstrap. Awarded “Best Senior Design Presentation” in Senior Design Projects
 
@@ -30,7 +36,7 @@ PROJECTS
 ##### Personal Portfolio (Group Project)
 ####### [https://www.pineapplegiant.com/](https://www.pineapplegiant.com/)
 * Created personal portfolio site using vanilla HTML, CSS grid, and Javascript
-* (*In-Progress*) Migrate and contribute to open source via Ruby Gems static site generator framework "Jekyll" for blog generation
+* (*In-Progress*) Migrate and contribute to open source via Golang static site generator framework "Hugo" for blog generation
 
 
 WORK EXPERIENCE
@@ -53,7 +59,7 @@ WORK EXPERIENCE
 * Created the first lime kiln thermal picture database to analyze weekly thermal distribution, potentially mitigating the formation of soda rings and reducing potential downtime
 * Led daily morning and afternoon meetings to communicate pertinent information to the entire department
 
-####### **2014 – 2016** {#right}
+####### **November 2014 – July 2016** {#right}
 ##### Math Assistant
  *Kumon* | Tampa, FL
 
@@ -63,12 +69,12 @@ WORK EXPERIENCE
 SKILLS
 ---------
 
-|                                                          |                                                                 |
-|----------------------------------------------------------|-----------------------------------------------------------------|
-| - **Languages:**                                         | - **Frameworks** - Django, Jekyll, Bootstrap, SASS              |
-|     - *Proficient* - English, HTML5, CSS3                | - **Editor** - Vim, VSCode                                      |
-|     - *Intermediate* - Spanish, Python, Java             | - **Version Control** – Git                                     |
-|     - *Novice* - Javascript                              |                                                                 |
+|                                                          |                                                                   |
+|----------------------------------------------------------|-------------------------------------------------------------------|
+| - **Languages:**                                         | - **Frameworks** - Django, Flask, Hugo, Jekyll, Bootstrap, Sass   |
+|     - *Proficient* - English, HTML5, CSS3                | - **Editor** - Vim, VSCode                                        |
+|     - *Intermediate* - Spanish, Python, Java, C++, Bash  | - **Version Control** – Git                                       |
+|     - *Novice* - Javascript                              |                                                                   |
 
 
 

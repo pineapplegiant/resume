@@ -3,7 +3,7 @@
 GUILLERMO A. RODRIGUEZ
 
 
-Tampa, FL • (407) 802-6655 • pineapplegiant.com • guillermo@pineapplegiant.com • linkedin/pineapplegiant
+Denver, CO • (407) 802-6655 • pineapplegiant.com • rodrguil@oregonstate.edu • linkedin/pineapplegiant
 
 
 EDUCATION
@@ -29,11 +29,20 @@ Computer Science, Bachelor of Science
 
 PROJECTS
 
+JANUARY 2019
+
+JOE’S PERSONAL SITE Personal Portfolio (Individual Project)
+
+https://www.joeroccio.com/
+
+-   Built and deployed hugo theme using Github Pages hosting
+-   Hugo, Markdown, HTML5, CSS3, Bootstrap, Git, Github
+
 APRIL 2018
 
 HYDRONE-KIT Product Website (Individual Project)
 
-http://www.hydronekit.fun/
+https://hydronekit.github.io/
 
 -   Designed and implemented marketing website for Senior Design project
     deploying static site to Github Pages
@@ -48,8 +57,8 @@ https://www.pineapplegiant.com/
 
 -   Created personal portfolio site using vanilla HTML, CSS grid, and
     Javascript
--   (_In-Progress_) Migrate and contribute to open source via Ruby Gems
-    static site generator framework “Jekyll” for blog generation
+-   (_In-Progress_) Migrate and contribute to open source via Golang
+    static site generator framework “Hugo” for blog generation
 
 
 WORK EXPERIENCE
@@ -86,7 +95,7 @@ _WestRock_ | Covington, VA
 -   Led daily morning and afternoon meetings to communicate pertinent
     information to the entire department
 
-2014 – 2016
+NOVEMBER 2014 – JULY 2016
 
 Math Assistant
 
@@ -101,9 +110,9 @@ _Kumon_ | Tampa, FL
 
 SKILLS
 
-  ------------------------------------------ ------------------------------------------------
-  - LANGUAGES:                               - FRAMEWORKS - Django, Jekyll, Bootstrap, SASS
-  - _Proficient_ - English, HTML5, CSS3      - EDITOR - Vim, VSCode
-  - _Intermediate_ - Spanish, Python, Java   - VERSION CONTROL – Git
-  - _Novice_ - Javascript                    
-  ------------------------------------------ ------------------------------------------------
+  ----------------------------------------------------- -------------------------------------------------------------
+  - LANGUAGES:                                          - FRAMEWORKS - Django, Flask, Hugo, Jekyll, Bootstrap, Sass
+  - _Proficient_ - English, HTML5, CSS3                 - EDITOR - Vim, VSCode
+  - _Intermediate_ - Spanish, Python, Java, C++, Bash   - VERSION CONTROL – Git
+  - _Novice_ - Javascript                               
+  ----------------------------------------------------- -------------------------------------------------------------
