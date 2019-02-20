@@ -16,7 +16,7 @@ UNIVERSITY OF SOUTH FLORIDA
 
 Chemical Engineering, Bachelor of Science
 
-Humanities, Bachelors of Arts
+Humanities, Bachelor of Arts
 
 July 2020
 
@@ -110,9 +110,9 @@ _Kumon_ | Tampa, FL
 
 SKILLS
 
-  ----------------------------------------------------- -------------------------------------------------------------
-  - LANGUAGES:                                          - FRAMEWORKS - Django, Flask, Hugo, Jekyll, Bootstrap, Sass
-  - _Proficient_ - English, HTML5, CSS3                 - EDITOR - Vim, VSCode
-  - _Intermediate_ - Spanish, Python, Java, C++, Bash   - VERSION CONTROL – Git
-  - _Novice_ - Javascript                               
-  ----------------------------------------------------- -------------------------------------------------------------
+  --------------------------------------------------- ----------------------------------------------------------
+  LANGUAGES:                                          FRAMEWORKS: Django, Flask, Hugo, Jekyll, Bootstrap, Sass
+  _Proficient_ - English, HTML5, CSS3                 EDITOR: Vim, VSCode
+  _Intermediate_ - Spanish, Python, Java, C++, Bash   VERSION CONTROL: Git
+  _Novice_ - Javascript                               
+  --------------------------------------------------- ----------------------------------------------------------

@@ -24,7 +24,7 @@ The process is *fairly* simple.
 ## Benefits
 1) *Version Control*. You can track your resume via git/github! Say goodbye to the days where you had to remember all of your past achievements. Git will do that for you.
 2) *Work-Flow*. You'll never have to update multiple things. It's all right here. Mkd-> HTML,PDF,DOCX
-3) *CSS Styling*. Yes it's painful, but it's **_MUCH_** better than the steep learning curve that LaTex Template programming has. If you disagree, there are good [ LaTex/ConText templates ](https://github.com/jgm/pandoc/wiki/User-contributed-templates) for these kind of things.
+3) *CSS Styling*. Yes it's painful, but it's **_MUCH_** better than dealing with LaTex Template programming has. If you disagree, there are good [ LaTex/ConText templates ](https://github.com/jgm/pandoc/wiki/User-contributed-templates) for these kind of things.
 
 
 ## Installation

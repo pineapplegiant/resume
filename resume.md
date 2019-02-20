@@ -10,7 +10,7 @@ EDUCATION
 ####### **University of South Florida**
 
 ####### Chemical Engineering, Bachelor of Science
-####### Humanities, Bachelors of Arts {#bottom}
+####### Humanities, Bachelor of Arts {#bottom}
 
 
 ####### July 2020 {#right}
@@ -69,12 +69,12 @@ WORK EXPERIENCE
 SKILLS
 ---------
 
-|                                                          |                                                                   |
-|----------------------------------------------------------|-------------------------------------------------------------------|
-| - **Languages:**                                         | - **Frameworks** - Django, Flask, Hugo, Jekyll, Bootstrap, Sass   |
-|     - *Proficient* - English, HTML5, CSS3                | - **Editor** - Vim, VSCode                                        |
-|     - *Intermediate* - Spanish, Python, Java, C++, Bash  | - **Version Control** – Git                                       |
-|     - *Novice* - Javascript                              |                                                                   |
+|                                                            |                                                                   |
+|------------------------------------------------------------|-------------------------------------------------------------------|
+|   **Languages:**                                           |   **Frameworks**:  Django, Flask, Hugo, Jekyll, Bootstrap, Sass   |
+|         *Proficient* - English, HTML5, CSS3                |   **Editor**: Vim, VSCode                                         |
+|         *Intermediate* - Spanish, Python, Java, C++, Bash  |   **Version Control**:  Git                                       |
+|         *Novice* - Javascript                              |                                                                   |
 
 
 
